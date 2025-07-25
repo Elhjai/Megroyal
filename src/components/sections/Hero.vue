@@ -57,10 +57,12 @@
           />
         </picture>
         <h1 class="font-heading text-4xl md:text-6xl text-primary-light mb-4">
-          Eternal Elegance in Every Petal
+          Nature-Inspired 🌿 Luxury
         </h1>
         <p class="font-body text-xl text-white max-w-2xl mx-auto mb-8">
-          Premium artificial flowers that bring lasting beauty to your spaces
+          Discover the elegance of artificial flowers and plants that bring the beauty of nature
+          into your home. Explore our exclusive collections designed to elevate your space with
+          timeless charm.
         </p>
         <a
           href="#products"
