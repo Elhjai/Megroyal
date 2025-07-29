@@ -17,8 +17,8 @@
           <div class="flex items-center mb-6">
             <div class="relative">
               <img
-                src="@/assets/images/logo-gold.png"
-                alt="MagRoyal"
+                src="@/assets/logos/logo-gold.png"
+                alt="MegRoyal"
                 class="h-10 w-10 filter drop-shadow-lg"
               />
               <div class="absolute inset-0 bg-primary-light/20 rounded-full blur-xl"></div>

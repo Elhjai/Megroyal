@@ -4,7 +4,7 @@
   >
     <div class="container mx-auto px-4 py-4 flex justify-between items-center">
       <div class="flex items-center">
-        <img src="@/assets/images/logo-gold.png" alt="MegRoyal" class="h-10" />
+        <img src="@/assets/logos/logo-gold.png" alt="MegRoyal" class="h-10" />
         <span class="ml-2 text-xl font-playfair font-bold text-gray-800 dark:text-white"
           >MegRoyal</span
         >

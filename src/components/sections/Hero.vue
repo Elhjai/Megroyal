@@ -46,9 +46,9 @@
       <div data-aos="fade-up" data-aos-delay="200">
         <!-- Logo with optimized loading -->
         <picture class="inline-block">
-          <source srcset="@/assets/images/logo-gold.png" type="image/png" />
+          <source srcset="@/assets/logos/logo-gold.png" type="image/png" />
           <img
-            src="@/assets/images/logo-gold.png"
+            src="@/assets/logos/logo-gold.png"
             alt="MagRoyal"
             class="mx-auto h-24 mb-8"
             loading="eager"
@@ -85,24 +85,19 @@ import 'aos/dist/aos.css'
 // Background images array - add your actual image paths here
 const backgroundImages = ref([
   {
-    jpg: '/src/assets/images/bg1.jpg',
-    webp: '/src/assets/images/bg1.webp', // Optional WebP version for better performance
+    jpg: '/images/bg1.jpg',
   },
   {
-    jpg: '/src/assets/images/bg2.JPG',
-    webp: '/src/assets/images/bg2.webp',
+    jpg: '/images/bg2.jpg',
   },
   {
-    jpg: '/src/assets/images/bg3.jpg',
-    webp: '/src/assets/images/bg3.webp',
+    jpg: '/images/bg3.jpg',
   },
   {
-    jpg: '/src/assets/images/bg4.jpg',
-    webp: '/src/assets/images/bg4.webp',
+    jpg: '/images/bg4.jpg',
   },
   {
-    jpg: '/src/assets/images/bg5.jpg',
-    webp: '/src/assets/images/bg5.webp',
+    jpg: '/images/bg5.jpg',
   },
 ])
 
